@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javaFX.iml" filepath="$PROJECT_DIR$/javaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/guessingGameFX/untitled.iml" filepath="$PROJECT_DIR$/guessingGameFX/untitled.iml" />
+    </modules>
+  </component>
+</project>
